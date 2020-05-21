@@ -1,2 +1,2 @@
-# react
-Goutam singh web site in react framework
+# React
+Goutam singh official web site in react framework

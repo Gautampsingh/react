@@ -11,6 +11,8 @@ import Project from './Components/Project/Project';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
 
+import { Link } from "react-scroll";
+
 const navBarList = [
   { text: 'Services', url: "services" },
   { text: 'About Me', url: "aboutme" },
@@ -31,8 +33,10 @@ class App extends Component {
         <Project title="Projects" dark={false} id="projects" />
         <Contact title="Contact Me" dark={false} id="contact" />
         <Footer />
-        <FontAwesomeIcon icon={faArrowCircleUp} className="scrollTop" onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})} />
         
+        <Link to='services' spy={true} smooth={true} offset={-80} duration={500}>
+          <FontAwesomeIcon icon={faArrowCircleUp} className="scrollTop" />
+        </Link>
       </div>
     );
   }

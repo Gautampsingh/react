@@ -2,7 +2,7 @@
     min-height: 500px;
 }
 #contact {
-    background-color: #212529;
+    background-color: #261402;
     background-image: url(../../assets/images/map-image.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -68,7 +68,7 @@ ul.social-buttons li a {
     color: #fff;
     border-radius: 100%;
     outline: 0;
-    background-color: #212529
+    background-color: #554306;
 }
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,

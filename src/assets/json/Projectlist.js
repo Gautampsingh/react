@@ -21,7 +21,7 @@ const ProjectList = [
     { 
         title: 'Dankse Bank',
         subtitle: "Banking and Finance",
-        description: "Danske Bank is a Nordic bank with strong local roots and bridges to the rest of the world. For more than 145 years, danske bank have helped people and businesses in the Nordics realise their ambitions. Today, bank serve personal, business and institutional customers and in addition to banking services, bank offer life insurance and pension, mortgage credit, wealth management, real estate and leasing services. Danske bank aim to create long-term value for all our stakeholders – our customers, shareholders and the societies we are part of – and our vision is to be recognised as the most trusted financial partner.",
+        description: "Danske Bank is a Nordic bank with strong local roots and bridges to the rest of the world. We have migrated the application using the new technologies and the sitecore tool. We have developed the application in multiple localizations including dk, fi, co.uk, se.",
         location: "Denmark",
         duration: "Project duration: June 2015 - September 2017",
         imgUrl: img_danske,
@@ -33,7 +33,7 @@ const ProjectList = [
     { 
         title: 'General Electric', 
         subtitle: "Healthcare", 
-        description: "GE Healthcare is the $19 billion healthcare business of GE (NYSE: GE). As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics, applications and services. With over 100 years of experience in the healthcare industry and more than 50,000 employees globally, the company helps improve outcomes more efficiently for patients, healthcare providers, researchers and life sciences companies around the world.", 
+        description: "GE Healthcare is the $19 billion healthcare business of GE (NYSE: GE). As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics, applications and services.", 
         location: "Bengaluru",
         duration: "Project duration: June 2013 - September 2014",
         imgUrl: img_geHealth,
@@ -45,7 +45,7 @@ const ProjectList = [
     { 
         title: 'National Bank of Canada', 
         subtitle: "Banking", 
-        description: "The National Bank of Canada (French: Banque Nationale du Canada) is the sixth largest commercial bank in Canada. It is headquartered in Montreal, and has branches in most Canadian provinces and 2.4 million personal clients.[4] National Bank is the largest bank in Quebec, and the second largest financial institution in the province, after Desjardins credit union. National Bank's Institution Number is 006 and its SWIFT code is BNDCCAMMINT.", 
+        description: "The National Bank of Canada (French: Banque Nationale du Canada) is the sixth largest commercial bank in Canada. It is headquartered in Montreal, and has branches in most Canadian provinces and 2.4 million personal clients.[4] National Bank is the largest bank in Quebec, and the second largest financial institution in the province.", 
         location: "Canada",
         duration: "Project duration: January 2013 - June 2013",
         imgUrl: img_nbc,

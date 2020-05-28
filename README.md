@@ -1,5 +1,6 @@
 # Goutam singh official website
-Technologies used: HTML5, CSS, BOOTSTRAP, REACT(v 16.6.0) 
+Technologies used: HTML5, CSS, REACT(version 16.6.0)
+Libraries used: @fortawesome, bootstrap, react-bootstrap, react-scroll, react-skylight
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

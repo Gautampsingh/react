@@ -11,7 +11,7 @@
     "react": "^16.6.0",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5",
+    "react-scripts": "5.0.1",
     "react-scroll": "^1.7.10",
     "react-skylight": "^0.5.1"
   },
